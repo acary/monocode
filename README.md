@@ -1,0 +1,3 @@
+# monocode
+
+## Monorepo starter
